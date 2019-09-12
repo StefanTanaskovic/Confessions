@@ -1,5 +1,5 @@
 # Confessions
-React native app that lets you tweet out funny messages to different school boards 
+React native app that lets you tweet out funny messages to different school boards connected with firebase server 
 
 
 ![Image of app](https://i.imgur.com/xdizgDf.png?1)
